@@ -4,8 +4,6 @@ Fullstack Developer
 AI || ML 
 Django || Flask || Python || Java
 Extras: C,C++,C#,PHP,JAVASCRIPT,HTML&CSS
-Instagram (https://www.instagram.com/lul__prof/)
-My Portofolio (https://israelmutua-site.vercel.app)
 
 
 
