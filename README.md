@@ -5,6 +5,8 @@ AI || ML
 Django || Flask || Python || Java
 Extras: C,C++,C#,PHP,JAVASCRIPT,HTML&CSS
 
+Portofolio: https://portofolio-two-rosy-31.vercel.app/
+
 
 
 ## 🌐 Socials:
